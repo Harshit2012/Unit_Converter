@@ -13,7 +13,7 @@ A basic unit conversion application developed with Python's tkinter library. Thi
 ## Usage
 1. Clone the repository
    ```bash
-   git clone https://github.com/Harshit2012/Unit_Co.git
+   git clone https://github.com/Harshit2012/Unit_Co.git](https://github.com/Harshit2012/Unit_Converter.git)
 2. Run the app
    ```bash
-   python Analog_clock.py
+   python Unit_Converter.py
